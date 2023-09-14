@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392665863513",
+    "project_id": "pruebalogin-85110",
+    "storage_bucket": "pruebalogin-85110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392665863513:android:7021c9650ead97deb32848",
+        "android_client_info": {
+          "package_name": "com.example.ejemploregistrologin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiel_hnYErX_niNihEHpEpMO_wsvyGmQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
